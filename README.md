@@ -1,7 +1,7 @@
 ### 1. Projects of Statistical Regression Models. 
-(a). Simple Linear Model \
+(a). Simple Linear Model (SLR) \
 (b). ANOVA \
-(c). Multiple Linear Regression \
+(c). Multiple Linear Regression (MLR) \
 (d). Generalized Linear Model (GLM) \
 <br>
        
