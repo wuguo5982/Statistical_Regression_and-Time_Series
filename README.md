@@ -11,5 +11,5 @@
 (c). Autoregression and Moving Average \
 (d). Autoregressive Integrated Moving Average (ARIMA) \
 (d). Multivariate Time Series (VAR) and GARCH \
-<br>
+
 
