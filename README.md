@@ -5,4 +5,11 @@
 (d). Generalized Linear Model (GLM) \
 <br>
        
-### 2. Projects of Time_Series.
+### 2. Projects of Time_Series. \
+(a). Trend Estimation \
+(b). Decomposition Seasonality Estimation \
+(c). Autoregression and Moving Average \
+(d). Autoregressive Integrated Moving Average (ARIMA) \
+(d). Multivariate Time Series (VAR) and GARCH \
+<br>
+
