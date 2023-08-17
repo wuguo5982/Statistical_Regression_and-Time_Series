@@ -6,10 +6,9 @@
 <br>
        
 ### 2. Projects of Time_Series. 
-(a). Trend Estimation \
-(b). Decomposition Seasonality Estimation \
-(c). Autoregression and Moving Average \
-(d). Autoregressive Integrated Moving Average (ARIMA) \
+(a). Trend Estimation and Decomposition Seasonality Estimation \
+(b). Autoregression and Moving Average \
+(c). Autoregressive Integrated Moving Average (ARIMA) \
 (d). Multivariate Time Series (VAR) and GARCH 
 
 
